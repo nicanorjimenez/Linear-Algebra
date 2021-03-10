@@ -92,3 +92,5 @@ elif float (semestral_grade_perc) > 69.99:
 print(f"your Student { stud_name } and his course { stud_course } has a Grade of { semestral_grade_perc } ")
 
 
+#author= "Nicanor JImenez"
+#copyright = "Copyright (C) 2021"
