@@ -1,4 +1,4 @@
-print("PLease put in info of your student")
+print("Please put in info of your student")
 print("-------------------------------------------")
 #defining information
 print("Format (Firstname lastname,Course)")
@@ -92,5 +92,5 @@ elif float (semestral_grade_perc) > 69.99:
 print(f"your Student { stud_name } and his course { stud_course } has a Grade of { semestral_grade_perc } ")
 
 
-#author= "Nicanor JImenez"
-#copyright = "Copyright (C) 2021"
+_author = "Nicanor JImenez"
+_copyright = "Copyright (C) 2021"
